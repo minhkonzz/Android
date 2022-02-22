@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">logindemo</string>
+    <string name="list_aptech_student">List Aptech Student</string>
+    <string name="student">student</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+</resources>
